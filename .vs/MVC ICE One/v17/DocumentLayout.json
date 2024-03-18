@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\troyk\\source\\repos\\MVC ICE One\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D250D67B-191D-4283-8E7D-CB1271DD8458}|MVC ICE One.csproj|c:\\users\\troyk\\source\\repos\\mvc ice one\\controllers\\contactus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D250D67B-191D-4283-8E7D-CB1271DD8458}|MVC ICE One.csproj|solutionrelative:controllers\\contactus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D250D67B-191D-4283-8E7D-CB1271DD8458}|MVC ICE One.csproj|c:\\users\\troyk\\source\\repos\\mvc ice one\\views\\contactus\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D250D67B-191D-4283-8E7D-CB1271DD8458}|MVC ICE One.csproj|solutionrelative:views\\contactus\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D250D67B-191D-4283-8E7D-CB1271DD8458}|MVC ICE One.csproj|c:\\users\\troyk\\source\\repos\\mvc ice one\\controllers\\mywork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D250D67B-191D-4283-8E7D-CB1271DD8458}|MVC ICE One.csproj|solutionrelative:controllers\\mywork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D250D67B-191D-4283-8E7D-CB1271DD8458}|MVC ICE One.csproj|c:\\users\\troyk\\source\\repos\\mvc ice one\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D250D67B-191D-4283-8E7D-CB1271DD8458}|MVC ICE One.csproj|solutionrelative:models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D250D67B-191D-4283-8E7D-CB1271DD8458}|MVC ICE One.csproj|c:\\users\\troyk\\source\\repos\\mvc ice one\\controllers\\workitemmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D250D67B-191D-4283-8E7D-CB1271DD8458}|MVC ICE One.csproj|solutionrelative:controllers\\workitemmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D250D67B-191D-4283-8E7D-CB1271DD8458}|MVC ICE One.csproj|c:\\users\\troyk\\source\\repos\\mvc ice one\\controllers\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D250D67B-191D-4283-8E7D-CB1271DD8458}|MVC ICE One.csproj|solutionrelative:controllers\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D250D67B-191D-4283-8E7D-CB1271DD8458}|MVC ICE One.csproj|c:\\users\\troyk\\source\\repos\\mvc ice one\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D250D67B-191D-4283-8E7D-CB1271DD8458}|MVC ICE One.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D250D67B-191D-4283-8E7D-CB1271DD8458}|MVC ICE One.csproj|c:\\users\\troyk\\source\\repos\\mvc ice one\\models\\workitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D250D67B-191D-4283-8E7D-CB1271DD8458}|MVC ICE One.csproj|solutionrelative:models\\workitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D250D67B-191D-4283-8E7D-CB1271DD8458}|MVC ICE One.csproj|c:\\users\\troyk\\source\\repos\\mvc ice one\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D250D67B-191D-4283-8E7D-CB1271DD8458}|MVC ICE One.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D250D67B-191D-4283-8E7D-CB1271DD8458}|MVC ICE One.csproj|c:\\users\\troyk\\source\\repos\\mvc ice one\\views\\mywork\\mywork.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D250D67B-191D-4283-8E7D-CB1271DD8458}|MVC ICE One.csproj|solutionrelative:views\\mywork\\mywork.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D250D67B-191D-4283-8E7D-CB1271DD8458}|MVC ICE One.csproj|c:\\users\\troyk\\source\\repos\\mvc ice one\\views\\aboutus\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D250D67B-191D-4283-8E7D-CB1271DD8458}|MVC ICE One.csproj|solutionrelative:views\\aboutus\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D250D67B-191D-4283-8E7D-CB1271DD8458}|MVC ICE One.csproj|c:\\users\\troyk\\source\\repos\\mvc ice one\\migrations\\20240318180004_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D250D67B-191D-4283-8E7D-CB1271DD8458}|MVC ICE One.csproj|solutionrelative:migrations\\20240318180004_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\troyk\\source\\repos\\MVC ICE One\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\troyk\\source\\repos\\MVC ICE One\\Models\\SeedData.cs",
+              "RelativeToolTip": "Models\\SeedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T18:02:33.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkItemModelsController.cs",
+              "DocumentMoniker": "C:\\Users\\troyk\\source\\repos\\MVC ICE One\\Controllers\\WorkItemModelsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WorkItemModelsController.cs",
+              "ToolTip": "C:\\Users\\troyk\\source\\repos\\MVC ICE One\\Controllers\\WorkItemModelsController.cs",
+              "RelativeToolTip": "Controllers\\WorkItemModelsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T17:58:45.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WorkItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\troyk\\source\\repos\\MVC ICE One\\Models\\WorkItemModel.cs",
+              "RelativeDocumentMoniker": "Models\\WorkItemModel.cs",
+              "ToolTip": "C:\\Users\\troyk\\source\\repos\\MVC ICE One\\Models\\WorkItemModel.cs",
+              "RelativeToolTip": "Models\\WorkItemModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T17:49:03.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\troyk\\source\\repos\\MVC ICE One\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\troyk\\source\\repos\\MVC ICE One\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T16:30:19.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactUs.cs",
+              "DocumentMoniker": "C:\\Users\\troyk\\source\\repos\\MVC ICE One\\Controllers\\ContactUs.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactUs.cs",
+              "ToolTip": "C:\\Users\\troyk\\source\\repos\\MVC ICE One\\Controllers\\ContactUs.cs",
+              "RelativeToolTip": "Controllers\\ContactUs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T16:05:19.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyWork.cs",
+              "DocumentMoniker": "C:\\Users\\troyk\\source\\repos\\MVC ICE One\\Controllers\\MyWork.cs",
+              "RelativeDocumentMoniker": "Controllers\\MyWork.cs",
+              "ToolTip": "C:\\Users\\troyk\\source\\repos\\MVC ICE One\\Controllers\\MyWork.cs",
+              "RelativeToolTip": "Controllers\\MyWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T16:05:50.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\troyk\\source\\repos\\MVC ICE One\\Views\\ContactUs\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "Views\\ContactUs\\ContactUs.cshtml",
+              "ToolTip": "C:\\Users\\troyk\\source\\repos\\MVC ICE One\\Views\\ContactUs\\ContactUs.cshtml",
+              "RelativeToolTip": "Views\\ContactUs\\ContactUs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T15:53:04.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240318180004_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\troyk\\source\\repos\\MVC ICE One\\Migrations\\20240318180004_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240318180004_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\troyk\\source\\repos\\MVC ICE One\\Migrations\\20240318180004_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240318180004_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T18:00:04.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\troyk\\source\\repos\\MVC ICE One\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\troyk\\source\\repos\\MVC ICE One\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T18:08:48.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AboutUs.cs",
+              "DocumentMoniker": "C:\\Users\\troyk\\source\\repos\\MVC ICE One\\Controllers\\AboutUs.cs",
+              "RelativeDocumentMoniker": "Controllers\\AboutUs.cs",
+              "ToolTip": "C:\\Users\\troyk\\source\\repos\\MVC ICE One\\Controllers\\AboutUs.cs",
+              "RelativeToolTip": "Controllers\\AboutUs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T15:45:42.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyWork.cshtml",
+              "DocumentMoniker": "C:\\Users\\troyk\\source\\repos\\MVC ICE One\\Views\\MyWork\\MyWork.cshtml",
+              "RelativeDocumentMoniker": "Views\\MyWork\\MyWork.cshtml",
+              "ToolTip": "C:\\Users\\troyk\\source\\repos\\MVC ICE One\\Views\\MyWork\\MyWork.cshtml",
+              "RelativeToolTip": "Views\\MyWork\\MyWork.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T15:53:18.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\troyk\\source\\repos\\MVC ICE One\\Views\\AboutUs\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "Views\\AboutUs\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\troyk\\source\\repos\\MVC ICE One\\Views\\AboutUs\\AboutUs.cshtml",
+              "RelativeToolTip": "Views\\AboutUs\\AboutUs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T15:52:08.132Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
